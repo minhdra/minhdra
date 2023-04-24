@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Le Minh</h1>
-<h3 align="center">My immediate target is becoming a web developer, and I'm the final student at Hung Yen University of Technology and Education</h3>
+<h3 align="center">My immediate target is becoming a web developer</h3>
 <br/>
 
 <img align="right" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" />
